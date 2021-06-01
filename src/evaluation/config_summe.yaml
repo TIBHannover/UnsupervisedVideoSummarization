@@ -1,0 +1,6 @@
+dataset_path: '../../data/SumMe/processed/eccv16_dataset_summe_google_pool5.h5'
+eval_method: 'max' #'avg'
+video_scores: 'video_scores.txt'
+fscores: 'f_scores.txt'
+path: '../exp1/summe/results'
+splits: ['split0','split1','split2','split3','split4']
