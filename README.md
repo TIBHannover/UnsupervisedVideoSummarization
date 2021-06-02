@@ -124,7 +124,7 @@ python main.py -d datasets/eccv16_dataset_summe_google_pool5.h5 -s datasets/summ
 ## Citation
 ```
 @article{kanafani2021MCSF, 
-   title={MCSF (Multi-Source Chunk and Stride Fusion)},
+   title={Unsupervised Video Summarization via Multi-source Features},
    author={Kanafani, Hussain and Ghauri, Junaid Ahmed and Hakimov, Sherzod and Ewerth, Ralph}, 
    Conference={ACM International Conference on Multimedia Retrieval (ICMR)}, 
    year={2021} 
