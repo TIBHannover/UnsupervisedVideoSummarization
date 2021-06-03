@@ -1,5 +1,11 @@
-# MCSF (Multi-Source Chunk and Stride Fusion)
+# Unsupervised Video Summarization via Multi-source Features
 
+This is the official GitHub page for the paper:
+
+> Hussain Kanafani, Junaid Ahmed Ghauri, Sherzod Hakimov, Ralph Ewerth. 2021. Unsupervised Video Summarization via Multi-source Features. In Proceedings of the 2021 International Conference on MultimediaRetrieval (ICMR ’21), August 21–24, 2021, Taipei, Taiwan. ACM, New York, NY, USA, https://doi.org/10.1145/3460426.3463597
+
+The paper is available on:
+- *arXiv*: https://arxiv.org/pdf/2105.12532.pdf
 
 ![MCSF](/imgs/mcsf.png)
 
