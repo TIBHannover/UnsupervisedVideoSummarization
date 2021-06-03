@@ -7,6 +7,8 @@ This is the official GitHub page for the paper:
 The paper is available on:
 - *arXiv*: https://arxiv.org/pdf/2105.12532.pdf
 
+Model architecture: Multi-Source Chunk and Stride Fusion (MCSF)
+
 ![MCSF](/imgs/mcsf.png)
 
 ## Get started (Requirements and Setup)
