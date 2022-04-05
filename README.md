@@ -109,6 +109,13 @@ python main.py --split_index N (with N being the index of the split)
 <br/>
 
 
+### How to evaluate
+
+**Using multiple human-generated summaries per video:** To evaluate **CSNET** and all other **MCSF** models by comparing, after each training epoch, the generated summary for each test video against a set of reference human summaries that are available for that video (see the '/user_summary' entry in the explanation of the h5 file structure in the Data section above), run the **'src/evalution/evaluate.py'** script after specifying which config file to use: **'config_summe.yaml'** or **'config_tvsum.yaml'**
+
+
+<br/>
+
 
 ## SUM-Ind
 
