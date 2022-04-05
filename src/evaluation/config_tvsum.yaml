@@ -1,5 +1,5 @@
 dataset_path: '../../data/TVSum/processed/eccv16_dataset_tvsum_google_pool5.h5'
-eval_method: 'max' #'avg'
+eval_method: 'avg'
 video_scores: 'video_scores.txt'
 fscores: 'f_scores.txt'
 path: '../exp1/tvsum/results'
